@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Manager | Engineer | IT"
+title: "IT Manager - Engineer"
 author_profile: true
 redirect_from: 
   - /about/
