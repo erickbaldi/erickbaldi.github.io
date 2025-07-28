@@ -52,16 +52,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : "erick.baldi"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "__3r1ck"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "erickbaldi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
