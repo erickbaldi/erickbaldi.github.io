@@ -22,7 +22,7 @@ repository               : "erickbaldi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic.png"
+  avatar           : "erick2.jpg" #profile-pic.png"
   name             : "Erick Baldi"
   pronouns         : # example: "she/her"  
   bio              : "IT Manager @ Ducati"
