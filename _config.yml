@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "erick2.jpg" #profile-pic.png"
   name             : "Erick Baldi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Manager | Engineer | Geek"
   location         : "Bologna, Italy"
   employer         : "Ducati Motor Holding"
