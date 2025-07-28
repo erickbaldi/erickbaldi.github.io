@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Erick Baldi - Manager | Engineer | IT"
+title: "Manager | Engineer | IT"
 author_profile: true
 redirect_from: 
   - /about/
