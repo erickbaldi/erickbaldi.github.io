@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Erick Baldi"
+title                    : "Erick Baldi's website"
 title_separator          : "-"
 name                     : "Erick"
 description              : "personal website"
@@ -72,7 +72,7 @@ author:
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "Breadfan"
   xing             : # Username
   youtube          : "ErickBaldi"
   zhihu            : # Username
