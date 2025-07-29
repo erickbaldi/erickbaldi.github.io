@@ -4,7 +4,7 @@ collection: teaching
 type: "vocational high-school course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "ISICAST, Futura Soc. Cons. r.l."
-date: 2014-01-01
+date: 2007-10-01
 location: "Castiglione dei Pepoli (BO), Italy"
 ---
 
