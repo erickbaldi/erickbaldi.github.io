@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Maths, electronics and CS teaching support"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "vocational high-school course"
+permalink: /teaching/highschool
+venue: "ISICAST, Futura Soc. Cons. r.l."
 date: 2014-01-01
-location: "City, Country"
+location: "Castiglione dei Pepoli (BO), Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Math, Electronics and CS teaching support for the "ISICAST" vocational school in Castiglione dei Pepoli (Bologna, IT). Employed in a project-based contract by "Futura", a company supporting teaching and training activities for high school.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+See link below
+http://goo.gl/DXSAA
 ======
