@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Computer foundations and Office basics"
 collection: teaching
-type: "Workshop"
+type: "vocational high-school course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "ISICAST, IAL Emilia Romagna"
+date: 2008-03-01
+location: "Castiglione dei Pepoli (BO), Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching and practice in fundamentals of computer basics + MS Office suite.
+The course was hosted by the "ISICAST" institute in Castiglione dei Pepoli (Bologna, IT).
 
-Heading 1
+See link below
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+http://goo.gl/DXSAA
