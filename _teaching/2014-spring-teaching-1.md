@@ -11,5 +11,5 @@ location: "Castiglione dei Pepoli (BO), Italy"
 Math, Electronics and CS teaching support for the "ISICAST" vocational school in Castiglione dei Pepoli (Bologna, IT). Employed in a project-based contract by "Futura", a company supporting teaching and training activities for high school.
 
 See link below
-http://goo.gl/DXSAA
 ======
+http://goo.gl/DXSAA
