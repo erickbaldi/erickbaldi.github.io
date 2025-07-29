@@ -2,7 +2,7 @@
 title: "Maths, electronics and CS teaching support"
 collection: teaching
 type: "vocational high-school course"
-permalink: /teaching/highschool
+permalink: /teaching/2014-spring-teaching-1
 venue: "ISICAST, Futura Soc. Cons. r.l."
 date: 2014-01-01
 location: "Castiglione dei Pepoli (BO), Italy"
