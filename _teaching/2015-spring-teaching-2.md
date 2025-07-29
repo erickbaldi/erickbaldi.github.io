@@ -2,7 +2,7 @@
 title: "Computer foundations and Office basics"
 collection: teaching
 type: "vocational high-school course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "ISICAST, IAL Emilia Romagna"
 date: 2008-03-01
 location: "Castiglione dei Pepoli (BO), Italy"
