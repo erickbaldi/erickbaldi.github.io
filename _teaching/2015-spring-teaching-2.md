@@ -1,7 +1,7 @@
 ---
 title: "Computer foundations and Office basics"
 collection: teaching
-type: "vocational high-school course"
+type: "secretary course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "ISICAST, IAL Emilia Romagna"
 date: 2008-03-01
