@@ -17,6 +17,7 @@ Current interests in tech life: audio streaming tools, AI topics, Python program
 Here some pictures about me (AI powered):
 
 ![me and Pecco AI powered!](./images/Duc1.webp)
+
 ![with my son!](./images/son.webp)
 ![with wifey!](./images/wife.webp)
 ![metal sketch!](./images/metal1.webp)
