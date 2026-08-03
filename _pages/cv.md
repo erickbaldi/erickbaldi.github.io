@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master in IT Governance & Management, Bologna Business School (BBS), 2021
+* Engineer's Degree in Computer Engineering, University of Bologna (IT), 2008
+* High-school Diploma in Scientific studies in Castiglione dei Pepoli, Bologna (IT), 2002
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Jan 2023 - now: Ducati Motor Holding
+  * IT Manager
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Jul 2021 - Dec 2022: GVS Filter Technology
+  * IT Manager Italy
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* Jan 2018 - Jun 2021: Gruppo Felsineo
+  * Senior Software Engineer
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
