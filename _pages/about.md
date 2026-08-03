@@ -14,7 +14,7 @@ Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and 
 
 Current interests in tech life: audio streaming tools, AI topics, Python programming, Linux OS
 
-<img src=".images/Duc1.jpeg" alt="Descrizione" width="50%">
+<img src="/.images/Duc1.jpeg" alt="Descrizione" width="50%">
 
 Go to my [Github profile](https://github.com/erickbaldi)
 
