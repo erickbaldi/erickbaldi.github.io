@@ -14,6 +14,7 @@ Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and 
 Current interests in tech life: audio streaming tools, AI topics, Python programming, Linux OS...
 
 Some pictures about me:
+
 ![me and Pecco AI powered!](./images/Duc1.webp)
 ![with my son!](./images/son.webp)
 ![with wifey!](./images/wife.webp)
