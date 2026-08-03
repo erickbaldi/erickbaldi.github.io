@@ -13,7 +13,7 @@ Focused on continuous improvement and professional growth both personally and of
 Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and father!
 Current interests in tech life: audio streaming tools, AI topics, Python programming, Linux OS...
 
-Some pictures about me:
+Some pictures about me (AI powered):
 
 ![me and Pecco AI powered!](./images/Duc1.webp)
 ![with my son!](./images/son.webp)
