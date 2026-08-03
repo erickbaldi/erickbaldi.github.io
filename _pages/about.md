@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Manager , Engineer , IT , Ducati"
+title: "Welcome to my Github Pages site"
 author_profile: true
 redirect_from: 
   - /about/
