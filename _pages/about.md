@@ -8,19 +8,23 @@ redirect_from:
 ---
 
 Computer Engineer and Manager driving IT excellence for 15+ years. Strategic leader and multi-framework expert (COBIT, ITIL, Agile Scrum, Prince2) driving and helping business throughout Information Technology and Digital Transformation journey. 
-Proven technical experience (former Software Engineer, DBA, and IT Service Manager) trusts on approach and mindset oriented to precision, attention to details and exhaustiveness.
-Focused on continuous improvement and professional growth both personally and of his team members.
-Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and father!
 
+Proven technical experience (former Software Engineer, DBA, and IT Service Manager) trusts on approach and mindset oriented to precision, attention to details and exhaustiveness.
+
+Focused on continuous improvement and professional growth both personally and of his team members.
+
+Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and father!
 Current interests in tech life: audio streaming tools, AI topics, Python programming, Linux OS...
 
 Here some pictures about me (AI powered):
 
 ![me and Pecco AI powered!](./images/Duc1.webp)
+<!--
 ![with my son!](./images/son.webp)
 ![with wifey!](./images/wife.webp)
 ![metal sketch!](./images/metal1.webp)
 ![metal power!](./images/metal2.webp)
+-->
 
 Go to my [Github profile](https://github.com/erickbaldi)
 
