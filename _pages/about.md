@@ -26,9 +26,7 @@ Here some pictures about me (AI powered):
 ![metal power!](./images/metal2.webp)
 -->
 
-Go to my [Github profile](https://github.com/erickbaldi)
-
-Go to my [Credly profile](https://www.credly.com/users/erick-baldi)
+[Github profile](https://github.com/erickbaldi) | [Credly profile](https://www.credly.com/users/erick-baldi)
 
 
 <!--
