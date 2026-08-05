@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Github Pages site"
+title: "Welcome to the quErick's Github Pages site"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ Focused on continuous improvement and professional growth both personally and of
 Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and father!
 Current interests in tech life: audio streaming tools, AI topics, Python programming, Linux OS...
 
-Here some pictures about me (AI powered):
+Here with Pecco Bagnaia (AI powered):
 
 ![me and Pecco AI powered!](./images/Duc1.webp)
 <!--
