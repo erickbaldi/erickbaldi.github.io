@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Computer Engineer and Manager driving IT excellence for 15+ years. Strategic leader and multi-framework expert (COBIT, ITIL, Agile Scrum, Prince2) driving and helping business throughout Information Technology and Digital Transformation journey. 
+Computer Engineer and Manager driving IT excellence for 15+ years. Currently employed in [Ducati Motor Holding](https://www.ducati.com/) Strategic leader and multi-framework expert (COBIT, ITIL, Agile Scrum, Prince2) driving and helping business throughout Information Technology and Digital Transformation journey. 
 
 Proven technical experience (former Software Engineer, DBA, and IT Service Manager) trusts on approach and mindset oriented to precision, attention to details and exhaustiveness.
 
