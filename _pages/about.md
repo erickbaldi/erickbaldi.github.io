@@ -10,7 +10,7 @@ redirect_from:
 
 Computer Engineer and Manager driving IT excellence for 15+ years. Currently employed in [Ducati Motor Holding](https://www.ducati.com/), I am a strategic leader and multi-framework expert (COBIT, ITIL, Agile Scrum, Prince2) driving and helping business throughout Information Technology and Digital Transformation journey. 
 
-Proven technical experience (former Software Engineer, DBA, and IT Service Manager) I trust on approach and mindset oriented to precision, attention to details and exhaustiveness.
+Proven technical experience as a former DBA (that's why they call me quErick!), Software Engineer, and IT Services Manager, I rely on an approach and mindset focused on precision, attention to detail, and thoroughness.
 
 Focused on continuous improvement and professional growth both personally and of my team members.
 
