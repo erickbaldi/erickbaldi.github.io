@@ -27,7 +27,9 @@ Here with Pecco Bagnaia (AI powered):
 ![metal power!](./images/metal2.webp)
 -->
 
+Useful links:
 [Github profile](https://github.com/erickbaldi) | [Credly profile](https://www.credly.com/users/erick-baldi)
+[Garmin profile]([https://github.com/erickbaldi]https://connect.garmin.com/app/profile/708d6b37-c4e9-4489-b454-93ec2fdb8afb) | [Setlist.fm profile](https://www.setlist.fm/user/breadfan9)
 
 
 <!--
