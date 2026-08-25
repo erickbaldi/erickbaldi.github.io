@@ -10,7 +10,7 @@ redirect_from:
 
 Computer Engineer and Manager driving IT excellence for 15+ years. Currently employed in [Ducati Motor Holding](https://www.ducati.com/), I am a strategic leader and multi-framework expert (COBIT, ITIL, Agile Scrum, Prince2) driving and helping business throughout Information Technology and Digital Transformation journey. 
 
-Proven technical experience as a former DBA (that's why they call me quErick!), Software Engineer, and IT Services Manager, I rely on an approach and mindset focused on precision, attention to detail, and thoroughness.
+Proven technical experience as a former DBA (that's why once they called me quErick!), Software Engineer, and IT Services Manager, I rely on an approach and mindset focused on precision, attention to detail, and thoroughness.
 
 Focused on continuous improvement and professional growth both personally and of my team members.
 
@@ -27,7 +27,7 @@ Here with Pecco Bagnaia (AI powered):
 ![metal power!](./images/metal2.webp)
 -->
 
-Useful links:
+Some useful links:
 [Github](https://github.com/erickbaldi) | [Credly](https://www.credly.com/users/erick-baldi) | 
 [Garmin]([https://github.com/erickbaldi]https://connect.garmin.com/app/profile/708d6b37-c4e9-4489-b454-93ec2fdb8afb) | [Setlist.fm](https://www.setlist.fm/user/breadfan9)
 
