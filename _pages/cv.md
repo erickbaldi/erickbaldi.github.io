@@ -19,18 +19,29 @@ Work experience
 ======
 * Jan 2023 - now: Ducati Motor Holding
   * IT Manager
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties includes: Head of "IT Governance and HR IT" department
+  * Supervisor: Ducati CIO
 
 * Jul 2021 - Dec 2022: GVS Filter Technology
   * IT Manager Italy
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: All-round management of the IT department of the GVS italian plants (headquarters + 2 other subsites, ~300 people) both from operational and managerial point of view.
+  * Supervisor: GVS Global IT Director
 
 * Jan 2018 - Jun 2021: Gruppo Felsineo
   * Senior Software Engineer
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: Software development and engineering, IT Service Management, BI and Reporting, Application and Hardware maintenance, Budgetand Costs controlling
+  * Supervisor: Corporate CIO
+ 
+* Jul 2013 - Dec 2017: Illumia Spa
+  * Software and Service manager
+  * Duties included: • Automation and DevOps scripting with BAT/CMD scripts, JSON, XML, Javascript, webServices, etc.
+• Database admin, dev and scripting with Microsoft SQL Server (T-SQL, Stored Procedures, Jobs, etc.)
+• System Integration with Microsoft SQL Server Integration Services (SSIS)
+• Reporting and BI with Microsoft SQL Server Reporting Services (SSRS) and PowerBI
+• Legacy ERP (Trilance/Terranova suite) maintenance, bugfixing and development of small CRs
+• Incident and service requests management based on ITIL best practices and on agreed KPI and SLA
+• Technical bridge between legacy ERP (Trilance/Terranova suite) and new solution based on SAP ERP
+  * Supervisor: Corporate CIO
   
 Skills
 ======
