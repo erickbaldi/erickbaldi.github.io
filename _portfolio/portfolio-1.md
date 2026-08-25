@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "spotiFUCK"
+excerpt: "more than 2TB database of FREE music streaming live from my Peppermint 10 Linux server in Corticella, Bologna<br/><img src='/images/spotifuck_bckgnd.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In a world increasingly dependent on the cloud, having knowledge and tools that no one can disable or charge you for becomes increasingly important.<br/>I never suffered Spotify, Deezer, Amazon/Youtube Music and many other music streaming services that bind you to subscriptions and fees, so I built-up my own music streaming system based on Subsonic project and customized for my needs.<br/> It streams directly from my home linux server in Bologna, with almost 2TB of high-quality music collection.<br/>
+The mantra is <em>no advertising, no costs, no interruptions</em> opposite to the most famous subscription players.
