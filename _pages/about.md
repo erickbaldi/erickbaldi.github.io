@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the quErick's Github Pages site"
+title: "Welcome to the quErick's github-pages site"
 author_profile: true
 redirect_from: 
   - /about/
