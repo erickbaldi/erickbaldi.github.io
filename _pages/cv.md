@@ -45,7 +45,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* COBIT 2019 [link](https://www.credly.com/badges/a4715cb6-cf3a-481c-8448-95aacec8102b)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
