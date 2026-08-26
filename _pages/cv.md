@@ -45,12 +45,15 @@ Work experience
   
 Skills
 ======
-* COBIT 2019 [link](https://www.credly.com/badges/a4715cb6-cf3a-481c-8448-95aacec8102b)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* COBIT 2019 for IT Governance [link](https://www.credly.com/badges/a4715cb6-cf3a-481c-8448-95aacec8102b)
+* ITIL4 Foundation for ITSM [link](https://www.credly.com/badges/ea981bdc-399c-4222-9944-df1d144e6c3a)
+* PRINCE2 for Project Management [link](https://www.credly.com/badges/4aec78ee-0560-4b74-b0bb-ec5949f95ea4)
+* Professional Scrum Master - PSM1 [link] (https://www.credly.com/badges/6b1fe318-1754-48d5-9efb-2e78fcb3669f)
+* AI and Similar
+  * GenAI overview for Project managers [link](https://www.credly.com/badges/b29af36a-9759-4641-bfa0-eaf1179a66ea)
+  * Practical application of GenAI for Project Managers [link](https://www.credly.com/badges/b29af36a-9759-4641-bfa0-eaf1179a66ea)
+  * Talking to AI: Prompt Engineering for Project Managers [link](https://www.credly.com/badges/fc8ac7dc-7a41-4d14-8a8f-70645d3833d7)
+* Others
 
 Publications
 ======
