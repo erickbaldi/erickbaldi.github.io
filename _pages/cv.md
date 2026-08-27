@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
 * Master in IT Governance & Management, Bologna Business School (BBS), 2021
 * Engineer's Degree in Computer Engineering, University of Bologna (IT), 2008
 * High-school Diploma in Scientific studies in Castiglione dei Pepoli, Bologna (IT), 2002
 
-Work experience
+**Work experience**
 ======
 * Jan 2023 - now: Ducati Motor Holding
   * IT Manager
@@ -43,7 +43,7 @@ Work experience
 • Technical bridge between legacy ERP (Trilance/Terranova suite) and new solution based on SAP ERP
   * Supervisor: Corporate CIO
   
-Certifications
+**Certifications**
 ======
 * COBIT 2019 for IT Governance [link](https://www.credly.com/badges/a4715cb6-cf3a-481c-8448-95aacec8102b)
 * ITIL4 Foundation for ITSM [link](https://www.credly.com/badges/ea981bdc-399c-4222-9944-df1d144e6c3a)
@@ -55,13 +55,13 @@ Certifications
   * Talking to AI: Prompt Engineering for Project Managers [link](https://www.credly.com/badges/fc8ac7dc-7a41-4d14-8a8f-70645d3833d7)
 * Others
 
-Publications
+**Publications**
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+**Talks**
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
