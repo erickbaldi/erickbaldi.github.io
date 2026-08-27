@@ -4,6 +4,6 @@ excerpt: "T3 Triathlon is a sport team that gather triathletes from the Bologna 
 collection: portfolio
 ---
 
-This is website I realized some time ago (almost 10 years!) for some frined of mine who were jumping into the triathlete world and decide to reuinte themselves in a Team. 
+This is website I realized some time ago (almost 10 years!) for some friend of mine who were jumping into the triathlete world and decide to reuinte themselves in a Team. 
 
 [LINK](https://t3triathlon.it)
