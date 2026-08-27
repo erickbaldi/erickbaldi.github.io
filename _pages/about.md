@@ -29,7 +29,7 @@ Here with Pecco Bagnaia (AI powered):
 
 Some useful links:
 [Github](https://github.com/erickbaldi) | [Credly](https://www.credly.com/users/erick-baldi) | 
-[Garmin]([https://github.com/erickbaldi]https://connect.garmin.com/app/profile/708d6b37-c4e9-4489-b454-93ec2fdb8afb) | [Setlist.fm](https://www.setlist.fm/user/breadfan9)
+[Garmin](https://connect.garmin.com/app/profile/708d6b37-c4e9-4489-b454-93ec2fdb8afb) | [Setlist.fm](https://www.setlist.fm/user/breadfan9) | [Last.fm](https://www.last.fm/user/erickbaldi)
 
 
 <!--
