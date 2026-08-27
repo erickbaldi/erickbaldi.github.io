@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-...site under constant construction!..
+*...site under constant construction!..*
 
 Computer Engineer and Manager driving IT excellence for 15+ years. Currently employed in [Ducati Motor Holding](https://www.ducati.com/), I am a strategic leader and multi-framework expert (COBIT, ITIL, Agile Scrum, Prince2) driving and helping business throughout Information Technology and Digital Transformation journey. 
 
