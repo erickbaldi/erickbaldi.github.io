@@ -55,6 +55,7 @@ redirect_from:
   * Talking to AI: Prompt Engineering for Project Managers [link](https://www.credly.com/badges/fc8ac7dc-7a41-4d14-8a8f-70645d3833d7)
 * Others
 
+<!--
 **Publications**
 ======
   <ul>{% for post in site.publications reversed %}
@@ -66,7 +67,7 @@ redirect_from:
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
