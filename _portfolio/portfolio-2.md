@@ -1,6 +1,7 @@
 ---
 title: "T3 Triathlon"
-excerpt: "T3 Triathlon is a sport team that gather triathletes from the Bologna area and organizes events and challenges and gives advantages for its affiliates.<br/><img src='/images/T3triathlon.png'>"
+excerpt: "T3 Triathlon is a sport team that gather triathletes from the Bologna area and organizes events and challenges and gives advantages for its affiliates.
+<img src='/images/T3triathlon.png'>"
 collection: portfolio
 ---
 
