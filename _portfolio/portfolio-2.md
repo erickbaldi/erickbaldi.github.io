@@ -5,6 +5,6 @@ excerpt: "T3 Triathlon is a sports team that gathers triathletes from the Bologn
 collection: portfolio
 ---
 
-This is a WordPress website I realized some time ago (almost 10 years!) for some friend of mine who were jumping into the triathlete world and decide to reuinte themselves in an official Team. 
+This is a WordPress website I realized some time ago (almost 10 years!) for some friend of mine who were jumping into the triathlete world and decide to reunite themselves in an official Team. 
 
 [LINK](https://t3triathlon.it)
