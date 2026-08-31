@@ -8,6 +8,6 @@ Dos Cabrones is an Italian grunge/stoner duo formed in 2017 by Marco (guitar) an
 Driven by instinct and raw chemistry, they craft intense walls of sound enriched with samples and loops—drawing inspiration from bands like Melvins, Jesus Lizard, and Helmet. 
 Their music is built around collaborative songwriting and translating their unfiltered rehearsal room energy into powerful live performances.
 
-<img src='/images/DosCabrones.png'>
+<img src='/images/DosCabrones.jpg' width='20%'>
 
 [LINK](https://www.doscabrones.it)
