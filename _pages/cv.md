@@ -42,6 +42,15 @@ redirect_from:
 • Incident and service requests management based on ITIL best practices and on agreed KPI and SLA
 • Technical bridge between legacy ERP (Trilance/Terranova suite) and new solution based on SAP ERP
   * Supervisor: Corporate CIO
+
+* Mar 2011 - Jul 2013: Cesop HR Consulting Company
+  * Project manager and Tech Support
+  * Duties included: Project management and Tech Support for customer users of the web platform CVweb
+ 
+* Mar 2008 - Jan 2011: Cedac Software
+  * SQL Server developer and database administrator (DBA)
+  * Duties included: SQL Server developer & DBA for home banking softwares
+ 
   
 **Certifications**
 ======
