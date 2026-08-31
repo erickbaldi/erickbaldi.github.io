@@ -6,6 +6,6 @@ collection: portfolio
 
 This is a WordPress website I realized some time ago (almost 10 years!) for some friend of mine who were jumping into the triathlete world and decide to reunite themselves in an official Team. 
 
-<img src='/images/T3triathlon.png'>
+<img src='/images/T3triathlon.png' width='50%'>
 
 [LINK](https://t3triathlon.it)
