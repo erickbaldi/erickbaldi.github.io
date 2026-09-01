@@ -26,7 +26,9 @@ Here with Pecco Bagnaia (AI powered):
 ![metal sketch!](./images/metal1.webp)
 ![metal power!](./images/metal2.webp)
 -->
+
 ---
+
 Hobbies and passions:
 - [Coding and experimenting](https://github.com/erickbaldi)
 - [Learning new things](https://www.credly.com/users/erick-baldi)
