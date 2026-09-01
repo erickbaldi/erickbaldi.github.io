@@ -27,9 +27,12 @@ Here with Pecco Bagnaia (AI powered):
 ![metal power!](./images/metal2.webp)
 -->
 
-Some useful links:
-[Github](https://github.com/erickbaldi) | [Credly](https://www.credly.com/users/erick-baldi) | 
-[Garmin](https://connect.garmin.com/app/profile/708d6b37-c4e9-4489-b454-93ec2fdb8afb) | [Setlist.fm](https://www.setlist.fm/user/breadfan9) | [Last.fm](https://www.last.fm/user/erickbaldi)
+Hobbies and passions:
+- [Coding and geeking](https://github.com/erickbaldi)
+- [Learning](https://www.credly.com/users/erick-baldi)
+- [Swimming and sports](https://connect.garmin.com/app/profile/708d6b37-c4e9-4489-b454-93ec2fdb8afb)
+- [Going to concerts and events](https://www.setlist.fm/user/breadfan9)
+- [Listening Music](https://www.last.fm/user/erickbaldi)
 
 
 <!--
