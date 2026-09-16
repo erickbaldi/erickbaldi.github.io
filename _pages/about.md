@@ -15,7 +15,8 @@ Proven technical experience as a former DBA (that's why once they called me quEr
 Focused on continuous improvement and professional growth both personally and of my team members.
 
 Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and father!
-Current interests in tech life: audio streaming tools, AI topics, Python programming, Linux OS...
+
+---
 
 Here with Pecco Bagnaia (AI powered):
 
