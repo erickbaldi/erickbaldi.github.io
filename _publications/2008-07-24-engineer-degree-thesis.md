@@ -7,7 +7,7 @@ excerpt: 'Modelli e algoritmi per la ottimizzazione di layout fieristici'
 date: 2008-07-24
 venue: 'Journal 1'
 slidesurl: 'https://docs.google.com/presentation/d/e/2PACX-1vRkHoU_SsWBQDzhAF6io8_uDq136COjqAZNjFCEuKN6Ncy_SQu8_i8mL6msoUkA3uXVZ6gP65PSh6QG/pub?start=true&amp;loop=true&amp;delayms=60000'
-paperurl: '[https://it.scribd.com/document/14760045/Tesi-Erick-Baldi](https://it.scribd.com/document/14760045/Tesi-Erick-Baldi)'
+paperurl: 'https://it.scribd.com/document/14760045/Tesi-Erick-Baldi'
 bibtexurl: 'empty'
 citation: 'Erick Baldi (2008). &quot;Degree Thesis&quot; in <i>Operational Research</i>'
 ---
