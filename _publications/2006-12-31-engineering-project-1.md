@@ -1,5 +1,5 @@
 ---
-title: "Univeristy Project"
+title: "Engineering Project"
 collection: publications
 category: manuscripts
 permalink: /publications/2006-12-31-engineering-project-1
