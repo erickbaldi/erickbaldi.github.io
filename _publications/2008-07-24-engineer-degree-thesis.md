@@ -15,5 +15,4 @@ Università degli Studi di Bologna | II facoltà di Ingegneria, DEIS, Sede di Ce
 Corso di laurea in Ingegneria Informatica | Tesi in Ricerca Operativa L-A
 Relatore : Prof. Ing. Silvano Martello | Correlatori : Prof. Ing. Daniele Vigo Dott. Ing. Manuel Iori.
 
-La tesi ha come obiettivo quello di determinare soluzioni per l'ottimizzazione di layout fieristici, madiante l'implementazione software di algoritmi e modelli matematici tipici della Ricerca Operativa.
-Lo scopo è quindi quello di fornire strumenti che massimizzano il numero di stand all'interno di aree espositive di diversi contesti ponendo l'attenzione ai vincoli e agli ostacoli che si presentano nel progetto di un layout fieristico, e quindi di rendere questi strumenti adatti a tutte le eventualità che si presentano nel suddetto ambito.
+This thesis aims to determine solutions for optimizing trade show layouts through the software implementation of algorithms and mathematical models typical of Operations Research. The objective is to provide tools that maximize the number of stands within exhibition areas across various contexts—while accounting for the constraints and obstacles inherent in trade show layout design—thereby ensuring these tools are adaptable to the full range of scenarios encountered in this field.
