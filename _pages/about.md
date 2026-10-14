@@ -34,7 +34,7 @@ Hobbies and passions:
 - [Coding and experimenting](https://github.com/erickbaldi)
 - [Learning new things](https://www.credly.com/users/erick-baldi)
 - [Swimming and sports in general](https://connect.garmin.com/app/profile/708d6b37-c4e9-4489-b454-93ec2fdb8afb)
-- [Going to concerts and events](https://www.setlist.fm/user/breadfan9)
+- [Going to concerts and events](https://www.setlist.fm/attended/breadfan9)
 - [Listening to music](https://www.last.fm/user/erickbaldi)
 
 
