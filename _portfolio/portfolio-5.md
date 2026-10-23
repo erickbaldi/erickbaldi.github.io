@@ -8,5 +8,5 @@ On this "one-page" site, I gather some information about myself and my activitie
 
 <img src='/images/sito_altervista.png' style="width:480px;height:300px;">
 
-[LINK AL MIO SITO](https://erickbaldi.altervista.org)
+[LINK](https://erickbaldi.altervista.org)
 
