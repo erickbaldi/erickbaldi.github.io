@@ -9,6 +9,22 @@ The mantra is <em>no advertising, no costs, no interruptions</em> opposite to th
 
 <img src='/images/spotifuck_bckgnd.png' width="20%">
 
+SOME TECH. INFO ABOUT ARCHITECTURAL SCHEMA, INFO, ETC.
+
+- Host: Asus eeePC Seashell - Intel Atom N550 @ 1.50GHz - RAM 2GB
+- OS: Peppermint 10 Linux (based on Ubuntu 18.04 LTS)
+- Backend engine: Subsonic Premium 6.1.6 (build 0cfa60)
+- Server: Java 8 - jetty-6.1.x, java 1.8.0_362
+- https redirect: local NGINX server configuration
+- Database: in-process/embedded HSQLDB
+- NAS management and sharing: Samba SMB/CIFS + SSH
+- Custom registration page: Python backend + HTML5 frontend
+- Download sources and sharing: CD-ripping, Torrent, Soulseek
+- MP3 transcoding: ffmpeg tool based on libmp3lame
+- ID3 tag management: python scripts based on Beets + MusicBrainz
+- Internationalization & translation: i18next
+- Icons, fonts & images: fontawesome.com
+
 <img src='/images/diagram_black.png' width="66%">
 
 [ENJOY SPOTIFUCK!](https://erick.ns0.it)
