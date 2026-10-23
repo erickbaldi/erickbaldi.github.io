@@ -62,7 +62,7 @@ redirect_from:
   * GenAI overview for Project managers [link](https://www.credly.com/badges/b29af36a-9759-4641-bfa0-eaf1179a66ea)
   * Practical application of GenAI for Project Managers [link](https://www.credly.com/badges/b29af36a-9759-4641-bfa0-eaf1179a66ea)
   * Talking to AI: Prompt Engineering for Project Managers [link](https://www.credly.com/badges/fc8ac7dc-7a41-4d14-8a8f-70645d3833d7)
-* Others
+* Others [see Credly profile](https://www.credly.com/users/erick-baldi)
 
 <!--
 **Publications**
