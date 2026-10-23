@@ -9,7 +9,7 @@ The mantra is <em>no advertising, no costs, no interruptions</em> opposite to th
 
 <img src='/images/spotifuck_bckgnd.png' width="20%">
 
-<img src='/images/diagram_black.png' width="33%">
+<img src='/images/diagram_black.png' width="66%">
 
 [ENJOY SPOTIFUCK!](https://erick.ns0.it)
 
