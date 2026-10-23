@@ -18,9 +18,9 @@ redirect_from:
 **Work experience**
 ======
 * Jan 2023 - now: Ducati Motor Holding
-  * IT Manager
+  * IT Manager - Head of "IT Governance and HR IT" department (DU/FP-2)
   * Supervisor: Ducati CIO
-  * Duties included: Head of "IT Governance and HR IT" department, in particular:
+  * Duties included:
     * IT Budgeting and Cost Controlling
     * IT Demand, Portfolio and Project management
     * Governance of the Ducati IT budget of ~5M€ capex and ~18M€ opex
