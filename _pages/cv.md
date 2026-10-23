@@ -20,16 +20,16 @@ redirect_from:
 * Jan 2023 - now: Ducati Motor Holding
   * IT Manager
   * Duties includes: Head of "IT Governance and HR IT" department
-  * * Head of "IT Governance & HR IT" business unit (DU/FP-2) 
-• IT Budgeting and Cost Controlling
-• IT Demand, Portfolio and Project management
-• Governance of the Ducati IT budget of ~5M€ capex and ~18M€ opex
-• IT Service Mgr (ITSM), IT Asset Mgr (ITAM), Application Management Services (AMS)
-• Identity & Access Management - IAM (a.i.)
-• License Manager Affiliate - LMA
-• Strong drive on continuous improvement and on the digital transformation of the Company
-• AI adoption and AI awareness strategy management
-• Coordination of relationships and project management with Audi/VW Group (BGP)
+  * * IT Budgeting and Cost Controlling
+  * * IT Demand, Portfolio and Project management
+  * * Governance of the Ducati IT budget of ~5M€ capex and ~18M€ opex
+  * * IT Service Mgr (ITSM), IT Asset Mgr (ITAM), Application Management Services (AMS)
+  * * Identity & Access Management - IAM (a.i.)
+  * * License Manager Affiliate - LMA
+  * * Strong drive on continuous improvement and on the digital transformation of the Company
+  * * AI adoption and AI awareness strategy management
+  * * Coordination of relationships and project management with Audi/VW Group (BGP)
+  * * Main projects/programs I am dealing with: SAP SuccessFactors (HelloSuccess VW Program), ServiceNow, Expenses&Travel Management System, CarFleet Management System, Company Canteen Management System, Document and Contract Lifecycle Management System
   * Supervisor: Ducati CIO
 
 * Jul 2021 - Dec 2022: GVS Filter Technology
