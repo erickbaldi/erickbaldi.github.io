@@ -41,18 +41,31 @@ redirect_from:
 
 * Jan 2018 - Jun 2021: Gruppo Felsineo
   * Senior Software Engineer
-  * Duties included: Software development and engineering, IT Service Management, BI and Reporting, Application and Hardware maintenance, Budgetand Costs controlling
+  * Duties included: • Software engineering and development (see below)
+    * Corporate Software Management
+    * IT and Technology Asset Management
+    * Technology Partner & Suppliers management and coordination
+    * Budget and Forecast management
+    * Business Process Management (BPM)
+    * Software development with .NET framework using C# WPF, WCF, VB.Net and ASP.net
+    * Automation and DevOps scripting with Microsoft Stack solutions, JSON, XML, Javascript, webServices, etc.
+    * Database development and scripting with Microsoft SQL Server (T-SQL, Stored Procedures, Jobs, etc.)
+    * System Integration with Microsoft SQL Server Integration Services (SSIS)
+    * Reporting and BI with Microsoft SQL Server Reporting Services (SSRS) and PowerBI
+    * Oracle JD Edwards ERP maintenance and development of small CRs
+    * Windows Server administration (Task and Job Scheduler, Component management, IIS application server, etc.)
   * Supervisor: Corporate CIO
  
 * Jul 2013 - Dec 2017: Illumia Spa
   * Software and Service manager
-  * Duties included: • Automation and DevOps scripting with BAT/CMD scripts, JSON, XML, Javascript, webServices, etc.
-• Database admin, dev and scripting with Microsoft SQL Server (T-SQL, Stored Procedures, Jobs, etc.)
-• System Integration with Microsoft SQL Server Integration Services (SSIS)
-• Reporting and BI with Microsoft SQL Server Reporting Services (SSRS) and PowerBI
-• Legacy ERP (Trilance/Terranova suite) maintenance, bugfixing and development of small CRs
-• Incident and service requests management based on ITIL best practices and on agreed KPI and SLA
-• Technical bridge between legacy ERP (Trilance/Terranova suite) and new solution based on SAP ERP
+  * Duties included:
+    * Automation and DevOps scripting with BAT/CMD scripts, JSON, XML, Javascript, webServices, etc.
+    * Database admin, dev and scripting with Microsoft SQL Server (T-SQL, Stored Procedures, Jobs, etc.)
+    * System Integration with Microsoft SQL Server Integration Services (SSIS)
+    * Reporting and BI with Microsoft SQL Server Reporting Services (SSRS) and PowerBI
+    * Legacy ERP (Trilance/Terranova suite) maintenance, bugfixing and development of small CRs
+    * Incident and service requests management based on ITIL best practices and on agreed KPI and SLA
+    * Technical bridge between legacy ERP (Trilance/Terranova suite) and new solution based on SAP ERP
   * Supervisor: Corporate CIO
 
 * Mar 2011 - Jul 2013: Cesop HR Consulting Company
