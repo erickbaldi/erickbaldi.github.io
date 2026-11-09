@@ -36,8 +36,9 @@ redirect_from:
 
 * Jul 2021 - Dec 2022: GVS Filter Technology
   * IT Manager Italy
-  * Duties included: All-round management of the IT department of the GVS italian plants (headquarters + 2 other subsites, ~300 people) both from operational and managerial point of view.
   * Supervisor: GVS Global IT Director
+  * Duties included: All-round management of the IT department of the GVS italian plants (headquarters + 2 other subsites, ~300 people) both from operational and managerial point of view.
+
 
 * Jan 2018 - Jun 2021: Gruppo Felsineo
   * Senior Software Engineer
