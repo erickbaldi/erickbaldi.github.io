@@ -41,6 +41,7 @@ redirect_from:
 
 * Jan 2018 - Jun 2021: Gruppo Felsineo
   * Senior Software Engineer
+  * Supervisor: Corporate CIO
   * Duties included: • Software engineering and development (see below)
     * Corporate Software Management
     * IT and Technology Asset Management
@@ -54,10 +55,11 @@ redirect_from:
     * Reporting and BI with Microsoft SQL Server Reporting Services (SSRS) and PowerBI
     * Oracle JD Edwards ERP maintenance and development of small CRs
     * Windows Server administration (Task and Job Scheduler, Component management, IIS application server, etc.)
-  * Supervisor: Corporate CIO
+ 
  
 * Jul 2013 - Dec 2017: Illumia Spa
-  * Software and Service manager
+  * Software and IT Service manager
+  * Supervisor: Corporate CIO
   * Duties included:
     * Automation and DevOps scripting with BAT/CMD scripts, JSON, XML, Javascript, webServices, etc.
     * Database admin, dev and scripting with Microsoft SQL Server (T-SQL, Stored Procedures, Jobs, etc.)
@@ -66,14 +68,15 @@ redirect_from:
     * Legacy ERP (Trilance/Terranova suite) maintenance, bugfixing and development of small CRs
     * Incident and service requests management based on ITIL best practices and on agreed KPI and SLA
     * Technical bridge between legacy ERP (Trilance/Terranova suite) and new solution based on SAP ERP
-  * Supervisor: Corporate CIO
 
 * Mar 2011 - Jul 2013: Cesop HR Consulting Company
   * Project manager and Tech Support
+  * Supervisor: External CVweb BU Technical Director
   * Duties included: Project management and Tech Support for customer users of the web platform CVweb
  
 * Mar 2008 - Jan 2011: Cedac Software
   * SQL Server developer and database administrator (DBA)
+  * Supervisor: Database Area responsible
   * Duties included: SQL Server developer & DBA for home banking softwares
  
   
