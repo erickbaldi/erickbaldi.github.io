@@ -20,7 +20,7 @@ Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and 
 
 ---
 
-Here with the 2025 AI Ducati Corse team! (Cairoli from MX, Bulega from Superbike, Pecco from MotoGP):
+Here with the 2025 Ducati Corse AI team! (Cairoli from MX, Bulega from Superbike, Pecco from MotoGP):
 
 ![me and Ducati Corse guys!](./images/Ducati.webp)
 <!--
