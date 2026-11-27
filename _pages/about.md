@@ -20,9 +20,9 @@ Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and 
 
 ---
 
-Here with Pecco Bagnaia (AI powered):
+Here with the AI Ducati Corse guys! (Cairoli, Bulega, Pecco):
 
-![me and Pecco AI powered!](./images/Ducati.webp)
+![me and Ducati Corse guys!](./images/Ducati.webp)
 <!--
 ![with my son!](./images/son.webp)
 ![with wifey!](./images/wife.webp)
