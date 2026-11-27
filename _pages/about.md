@@ -22,7 +22,7 @@ Outside of work? Hard-swimmer and sports addicted, metalhead, proud husband and 
 
 Here with Pecco Bagnaia (AI powered):
 
-![me and Pecco AI powered!](./images/Duc1.webp)
+![me and Pecco AI powered!](./images/Ducati.webp)
 <!--
 ![with my son!](./images/son.webp)
 ![with wifey!](./images/wife.webp)
